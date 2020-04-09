@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Enjoyable Count Tool
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyEnjoyableCountTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is a tool to help you practice your arithmetic ability. You can generate a number group suitable for your practice according to your ability. Each time you practice, a number will be randomly generated. You need to select an exercise number and arithmetic type from your counting group, so that the answer of the equation on the left is greater than that of the equation on the right. Each time you answer correctly, add 1 point to your score until you make a mistake, so as to help you understand and improve your arithmetic ability.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-# Header 1
-## Header 2
-### Header 3
+We will answer them for you in the first time.
 
-- Bulleted
-- List
+### Address: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyEnjoyableCountTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
